@@ -6,15 +6,15 @@
 
 [Data Sources](#data-sources)
 
-Tools Used
+[Tools Used](#tools-used)
 
-Data Cleaning and Preparations
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
 
-Exploratory Data Anlysis
+[Exploratory Data Anlysis](#exploratory-data-analysis)
 
-Data Analysis
+[Data Analysis](#data-analysis)
 
-Data Visualization
+[Data Visualization](#data-visualization)
  
 ### Project Overview 
 ---
