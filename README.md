@@ -2,6 +2,20 @@
 
 ### Project Title: E commerce Sales Analysis
 
+[Project Overview](#project-overview)
+
+Data Sources
+
+Tools Used
+
+Data Cleaning and Preparations
+
+Exploratory Data Anlysis
+
+Data Analysis
+
+Data Visualization
+ 
 ### Project Overview 
 ---
 In common usage, data is a collection of discrete or continuous values that convey information, describing the quantity, quality, fact, statistics, other basic units of meaning, or simply sequences of symbols that may be further interpreted formally. A datum is an individual value in a collection of data
@@ -43,3 +57,11 @@ SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
 
+### Data Visualization
+
+
+😆
+
+|Heading 1|Heading 2|Heading 3|
+|--------|----------|---------|
+|Table 1|Table 2|Table 3|
