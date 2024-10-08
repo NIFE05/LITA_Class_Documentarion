@@ -7,3 +7,12 @@ In common usage, data is a collection of discrete or continuous values that conv
 
 ## Data Sources
 In computing, data is information that has been translated into a form that is efficient for movement or processing. Relative to today's computers and transmission media, data is information converted into binary digital form. It is acceptable for data to be used as a singular subject or a plural subject.
+
+### Tools Used
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+  1. For Data Cleaning
+  2. For Analysis 
+  3. For Data Visualization
+  
+- SQL - Structured Query Language for Quering of Data
+- GitHub for Portfolio Building
